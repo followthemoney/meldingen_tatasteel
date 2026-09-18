@@ -4,7 +4,7 @@ Deze repository bevat de data en R-code achter het onderzoek van Follow the Mone
 
 In het onderzoek analyseren we onder meer **op welke momenten van de dag Tata Steel afwijkingen van de normale bedrijfsvoering meldt** en of het verschil tussen meldingen overdag en 's nachts kan worden verklaard door onderhoudswerkzaamheden.
 
-[Lees hier het bijbehorende artikel](LINK_NAAR_ARTIKEL).
+[Lees hier het bijbehorende artikel](https://www.ftm.nl/artikelen/overdag-meldt-tata-braaf-ontsnappende-gifwolken-maar-in-de-nacht-blijft-het-opvallend-stil).
 
 ## Data
 
